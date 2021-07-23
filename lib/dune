@@ -1,0 +1,3 @@
+(library
+   (name chip8)
+   (libraries tsdl))
